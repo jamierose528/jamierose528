@@ -5,7 +5,7 @@
 <a href="https://github.com/jamierose528">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=jamierose528&line_height=27&count_private=false&title_color=57A6FF&text_color=c9cacc&icon_color=57A6FF&bg_color=0D1116&border_color=57A6FF" alt="Jamie's Github Statistics"/>
 </a>
-### Hi there 👋
+
 
 <!--
 **jamierose528/jamierose528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
