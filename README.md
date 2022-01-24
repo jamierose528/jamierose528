@@ -8,6 +8,9 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=jamierose528&line_height=27&count_private=false&title_color=57A6FF&text_color=c9cacc&icon_color=57A6FF&bg_color=0D1116&border_color=57A6FF" alt="Jamie's Github Statistics"/>
 </a>
 
+Hello! My name is Jamie and I am currently a student at UCLA learning fullstack web development. 
+
+I have a background in film-making and design. My bachelor's degree is in Screenwriting and Producing from Regent's University London, and I am self-taught in graphic design and photography.
 
 <!--
 **jamierose528/jamierose528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
