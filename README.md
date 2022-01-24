@@ -9,9 +9,11 @@
 </a>
  <br>
  <br>
+ <table>
 <p>Hello! My name is Jamie and I am currently a student at UCLA learning fullstack web development. 
 
 I have a background in film-making and design. My bachelor's degree is in Screenwriting and Producing from Regent's University London, and I am self-taught in graphic design and photography.</p>
+  </table>
 
 <!--
 **jamierose528/jamierose528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
